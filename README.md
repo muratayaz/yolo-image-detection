@@ -1,6 +1,6 @@
 # yolo-image-detection
 
 #Requirements
--Alturos.Yolo
--Alturos.YoloV2TinyVocData
--vcredist_x64
+-Alturos.Yolo </br>
+-Alturos.YoloV2TinyVocData </br>
+-vcredist_x64 </br>
